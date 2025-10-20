@@ -1,5 +1,5 @@
 export default function Home(){
     return(
-        <h1>Hello from Home test prod 2</h1>
+        <h1>Hello from Home test production</h1>
     );
 }
